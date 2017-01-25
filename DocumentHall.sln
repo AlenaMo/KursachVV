@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentHall", "DocumentHall\DocumentHall.csproj", "{F60A6413-D93F-4B37-9A3C-83E222A5A34F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentHall.Tests", "DocumentHall.Tests\DocumentHall.Tests.csproj", "{45A18BD2-92B7-4BAF-88D1-1EC2DA28A29D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60A6413-D93F-4B37-9A3C-83E222A5A34F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60A6413-D93F-4B37-9A3C-83E222A5A34F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60A6413-D93F-4B37-9A3C-83E222A5A34F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60A6413-D93F-4B37-9A3C-83E222A5A34F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A18BD2-92B7-4BAF-88D1-1EC2DA28A29D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A18BD2-92B7-4BAF-88D1-1EC2DA28A29D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A18BD2-92B7-4BAF-88D1-1EC2DA28A29D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A18BD2-92B7-4BAF-88D1-1EC2DA28A29D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

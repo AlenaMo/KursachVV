@@ -1,0 +1,118 @@
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DocumentHall.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DocumentHall.pdb
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Antlr3.Runtime.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.Core.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\EntityFramework.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Newtonsoft.Json.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Net.Http.Formatting.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Helpers.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Http.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Http.WebHost.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Mvc.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Optimization.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Razor.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.Razor.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\WebGrease.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\WebMatrix.Data.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\WebMatrix.WebData.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\EntityFramework.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Newtonsoft.Json.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Net.Http.Formatting.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Helpers.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Http.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Http.WebHost.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Mvc.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.Razor.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\System.Web.WebPages.Razor.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\WebMatrix.Data.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\WebMatrix.WebData.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.Core.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\EntityFramework.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Http.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.Razor.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\obj\Debug\DocumentHall.dll
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\obj\Debug\DocumentHall.pdb
+C:\Users\fours\onedrive\документы\visual studio 2012\Projects\DocumentHall\DocumentHall\obj\Debug\DocumentHall.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DocumentHall.dll.config
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DocumentHall.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DocumentHall.pdb
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Antlr3.Runtime.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.Core.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\EntityFramework.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Newtonsoft.Json.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Helpers.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Mvc.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Optimization.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Razor.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.Razor.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\WebGrease.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\WebMatrix.Data.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\WebMatrix.WebData.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\EntityFramework.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Newtonsoft.Json.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Helpers.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Mvc.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.Razor.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\System.Web.WebPages.Razor.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\WebMatrix.Data.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\WebMatrix.WebData.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.Core.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\EntityFramework.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\WebMatrix.Data.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\bin\ru\WebMatrix.WebData.resources.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\obj\Debug\DocumentHall.csprojResolveAssemblyReference.cache
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\obj\Debug\DocumentHall.dll
+C:\Users\Demon\Desktop\DocumentHall\DocumentHall\obj\Debug\DocumentHall.pdb

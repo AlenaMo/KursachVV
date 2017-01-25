@@ -1,0 +1,57 @@
+﻿@model DocumentHall.Models.Document
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Паспорт</h2>
+
+<fieldset>
+    <legend>Document</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Name)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Serial)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Serial)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.DateOfRegistartion)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DateOfRegistartion)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Country)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Country)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.DateOfBirth)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DateOfBirth)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Sex)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Sex)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

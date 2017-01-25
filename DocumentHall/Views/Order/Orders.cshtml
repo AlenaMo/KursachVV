@@ -1,0 +1,59 @@
+﻿@model IEnumerable<DocumentHall.Models.Order>
+
+    @{
+        ViewBag.Title = "Поиск по заказам";
+    }
+
+    <h2>Поиск по заявкам</h2>
+
+    <p>
+        @using (Html.BeginForm("Orders", "Order", FormMethod.Get))
+        {
+            @Html.TextBox("sq")
+            <input type="submit" value="Найти!">
+        }
+    </p>
+
+        <table class="table">
+    <tr>
+        <th>
+            Номер
+        </th>
+        <th>
+            Дата
+        </th>
+        <th>
+            Тип
+        </th>
+        <th>
+            Статус
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Control)
+            </td>
+
+            <td>
+                @Html.ActionLink("Оплатить", "Oplata", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Не оплатить", "CancelOrder", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+

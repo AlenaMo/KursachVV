@@ -1,0 +1,61 @@
+﻿@model IEnumerable<DocumentHall.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Заявки пользователей</h2>
+                Как только ваша заявка станет Check, оплатите ее, и сможете забирать паспорт через число дней(недель) которое указанно в типе документа
+<table class="table">
+    <thead>
+        <tr><th>  Номер  </th>
+           <th>  Дата  </th>
+          <th>  Тип  </th>
+        <th> Статус  </th></tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numer)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeOrder)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Control)
+            </td> 
+@if (Roles.IsUserInRole("administrator"))
+            {
+            <td>
+                @Html.ActionLink("Проверка пройдена", "ApplyOrder", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Проверка не пройдена", "CancelOrder", new { id = item.Id })
+            </td>  }
+                   @if (Roles.IsUserInRole("SuperUser"))
+            {
+            <td>
+                @Html.ActionLink("Оплатить", "Oplata", new { id = item.Id })
+            </td>
+            <td>
+                @Html.ActionLink("Не оплатить", "CancelOrder", new { id = item.Id })
+            </td> }
+    <td>
+@if (Roles.IsUserInRole("administrator"))
+{
+
+        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) 
+        @Html.ActionLink("Details", "Details", new { id = item.Id }) 
+        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+
+        }
+    </td>
+           
+        </tr>
+    }
+    
+</table>

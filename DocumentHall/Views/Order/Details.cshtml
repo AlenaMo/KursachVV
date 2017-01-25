@@ -1,0 +1,50 @@
+﻿@model DocumentHall.Models.Order
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Заявки</h2>
+
+<fieldset>
+    <legend>Order</legend>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Numer)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Numer)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Document.Name)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Document.Name)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Date)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Date)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.OrderInfo.ShipTime)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.OrderInfo.ShipTime)
+    </div>
+
+    <div class="display-label">
+        @Html.DisplayNameFor(model => model.Control)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Control)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

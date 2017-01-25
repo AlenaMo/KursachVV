@@ -1,0 +1,60 @@
+﻿@{
+    ViewBag.Title = "Домашняя страница";
+}
+@section featured {
+    <section class="featured"></section>
+    <div class="content">
+    <h1> @ViewBag.Greeting </h1>
+
+    <p>Для оформления документов следуйте по инструкции: </p>
+    <ol class="round">
+       @if (Roles.IsUserInRole("User"))
+       {
+        <li class="one">
+            <p>Вы можете посмотреть список документов которые можете оформить:</p>
+            @Html.ActionLink("Список документов", "Index", "OrderInf")
+        </li>
+        <li class="two">
+            <p>Для оформления паспорта добавьте информацию о нем перейдя по ссылке:</p>
+            @Html.ActionLink("Регистрация документа", "Create", "Document")
+        </li>
+
+       }
+       
+       @if (Roles.IsUserInRole("SuperUser"))
+                    {
+        <li class="two">
+         <p>Вы можете посмотреть список документов которые можете оформить:</p>
+           @Html.ActionLink("Список документов", "Index", "OrderInf")
+         </li>
+    <li class="three">
+        <p>Оформите заявку для оформления документа: </p>
+        @Html.ActionLink("Оформление заявки", "Create", "Order")
+    </li>
+         <li class="four">
+           <p>Просмотреть информацию о одобренных услугах:</p>
+          @Html.ActionLink("Просмотреть заявки", "Index", "Order")
+          </li>
+          }
+                    
+            @if (Roles.IsUserInRole("administrator"))
+            {
+            <li class="one">
+            <p>Просмотреть список всех пользователей:</p>
+            @Html.ActionLink("Данные пользователей", "Index", "Document")
+            </li>
+                
+            <li class="two">
+            <p>Просмотреть заявки пользователей:</p>
+            @Html.ActionLink("Заявки пользователей", "Index", "Order")
+            </li>
+                
+            <li class="three">
+            <p>Посмотреть список документов:</p>
+            @Html.ActionLink("Список документов", "Index", "OrderInf")
+            </li>
+                }
+
+</ol>
+</div>
+}
